@@ -9,3 +9,7 @@ spring:
           uri: https://github.com/aliakbar-dev/spring-cloudconfig-ansaralhojat
           search-paths:
             - station*
+  security:
+    user:
+      name: pluralsight
+      password: pluralsight
