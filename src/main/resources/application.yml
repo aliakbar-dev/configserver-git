@@ -7,3 +7,5 @@ spring:
       server:
         git:
           uri: https://github.com/aliakbar-dev/spring-cloudconfig-ansaralhojat
+          search-paths:
+            - station*
