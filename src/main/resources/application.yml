@@ -16,3 +16,4 @@ spring:
 
 encrypt:
   key: pluralsight
+#actuator: http://localhost:8888/encrypt
