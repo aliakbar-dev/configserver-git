@@ -13,3 +13,6 @@ spring:
     user:
       name: pluralsight
       password: pluralsight
+
+encrypt:
+  key: pluralsight
